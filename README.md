@@ -1,5 +1,13 @@
 # Private Cloud
 
+<p align="center">
+  <a href="Private-Cloud%20Demo.mp4">
+    <img src="docs/Private-Cloud%20Demo%20thumbnail.png" alt="Watch the Private-Cloud demo video" width="720">
+  </a>
+  <br>
+  <sub>▶ <b><a href="Private-Cloud%20Demo.mp4">Watch the Private-Cloud demo</a></b> (74 s): the day-one roadmap, all 496 commits, the last CI run, and 12 live steps on a fresh stack: passkey sign-in, uploads, dedup, version history, search, share links and WebDAV</sub>
+</p>
+
 **A self-hosted, Dropbox-style personal cloud that runs on one Ubuntu server — and never phones home.**
 
 [![CI](https://img.shields.io/badge/CI-8_jobs-2ea44f?logo=githubactions&logoColor=white)](.github/workflows/ci.yml)
